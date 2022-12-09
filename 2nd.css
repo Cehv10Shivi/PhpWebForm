@@ -1,0 +1,119 @@
+.second{
+    background: #FFE8BB;
+}
+.how{
+    position: relative;
+    width: 419px;
+    height: 291px;
+    left: 10%;
+    top: 10px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0.323077px;
+    color: #2D2F30;
+}
+.how1{
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0.32307693362236023px;
+    text-align: left;
+   width: 500px;
+left: 16px;
+top: 12px;
+margin-left: 10%;
+border-radius: nullpx;
+color: #767676;
+margin-top: -160px;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: #FFE8BB ;
+    margin-top: 20px;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container ul li{
+    float:left;
+    list-style: none;
+    width:20%;
+    height:250px;
+    background:white;
+    margin :20px 0px 20px 55px; 
+    border:2px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.container ul li:hover{
+    opacity: 0.8;
+}
+
+.container ul li .bottom{
+    width: 100%;
+    height:40px;
+    line-height: 50px;
+    background: white;    
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    border-radius: 10px;
+   
+}
+
+@media screen and (max-width:1250px){
+    .container ul li{
+        width:40%;
+        margin-left: 40px;
+         
+    }
+}
+.box{
+    height: 65px;
+    width: 65px;
+  margin-top: 10px;
+    border-radius: 0px;
+    margin-right: 150px;
+}
+.box1{
+    font-family: Playfair Display;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #363940; 
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.box2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 17px; 
+    width: 210px;
+    height: 57px;
+    color: #8B8C8C;
+}
+.arrow{
+margin-left: 75%;
+margin-top: 30px;
+}
+.arrow1{
+    margin-left: 75%;
+    margin-top: 15px;
+    }
